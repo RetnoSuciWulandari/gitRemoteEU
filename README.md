@@ -1,2 +1,2 @@
 # gitRemoteEU
-## This is a quest for Git Retmote EU
+## This is a quest for Git Remote EU
